@@ -1,3 +1,3 @@
-module github.com/MuhHasrul/go_DataMahasiswa
+module github.com/MuhHasrul/Go_DataMahasiswa
 
 go 1.20
